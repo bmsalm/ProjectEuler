@@ -1,2 +1,5 @@
 # ProjectEuler
-Friendly competition for Project Euler challenges.
+
+## Purpose
+- Friendly competition for Project Euler challenges.
+- Learn python
